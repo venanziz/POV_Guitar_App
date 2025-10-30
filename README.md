@@ -26,10 +26,3 @@ Easily color-code intervals, assign unique shapes, and save your favorite config
 - Local persistence with Codable  
 - GitHub Pages for this site
 
----
-
-## 📫 Contact
-
-Have feedback or feature ideas?  
-DM on [Instagram](https://instagram.com/yourprofile) or email at `youremail@example.com`
-
